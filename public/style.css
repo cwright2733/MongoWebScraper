@@ -1,0 +1,7 @@
+body {
+    background: url('https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png') no-repeat center center fixed;
+}
+
+.panel {
+    background: rgba(255, 255, 255, 0.75);
+      }
